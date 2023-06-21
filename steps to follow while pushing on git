@@ -9,6 +9,8 @@ open settings-
  token is your passward.
  
  make a git folder on local machine 
+ -make repository on github using dashboard.
+ -git clone (give the URL of the repo where you want to push the code).
  -copy your code or file you want to push on github.
  -open terminal.
  -git init
