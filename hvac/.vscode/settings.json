@@ -1,0 +1,19 @@
+{
+    "terminal.integrated.scrollback": 1000000000,
+    "files.associations": {
+        "map": "cpp",
+        "iostream": "cpp",
+        "*.dat": "cpp",
+        "exception": "cpp",
+        "thread": "cpp",
+        "ostream": "cpp",
+        "string": "cpp",
+        "*.tcc": "cpp",
+        "iomanip": "cpp",
+        "istream": "cpp",
+        "sstream": "cpp",
+        "regex": "cpp",
+        "iosfwd": "cpp"
+    },
+    "cmake.configureOnOpen": true
+}
