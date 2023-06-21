@@ -1,0 +1,23 @@
+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
+
+open settings-
+ -go to developers settings.
+ -Personal access token--> token (classic).
+ -give all the permissions.
+ -generate token.
+ usrename is KunalThanvi07
+ token is your passward.
+ 
+ make a git folder on local machine 
+ -copy your code or file you want to push on github.
+ -open terminal.
+ -git init
+ -git add .
+ -git commit -m "massage"
+ -git push
+ 
+ 
+ copy the URL from repository
+ -click on code option
+ -open terminal where you want to clone code.  
+ -git clone <URL of the reop you want to clone>.
